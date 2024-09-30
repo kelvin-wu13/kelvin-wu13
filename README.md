@@ -58,5 +58,5 @@ I’m a passionate game development, specializing in Game Programming. My journe
 
 
 ## 📩 Contact Me
-- **Email**: Kelvin Wu
+- **Email**: kelvinwu04@gmail.com
 - **WhatsApp**: 087877711189
