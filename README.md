@@ -14,10 +14,10 @@ I'm currently a student at Binus University, majoring in Game Application and Te
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/kelvin-wu13/NebulaDefender"><img width="100%" src="Link GIF"></a>
+        <a href = "https://github.com/kelvin-wu13/NebulaDefender"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/NebulaDefender.gif"></a>
       </td>
       <td>
-        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="Link GIF"></a>
+        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SamuraiDash%20-%20Made%20with%20Clipchamp.gif"></a>
       </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ I'm currently a student at Binus University, majoring in Game Application and Te
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/kelvin-wu13/DesertSurvival"><img width="100%" src="GIF"></a>
+        <a href = "https://github.com/kelvin-wu13/DesertSurvival"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/DesertSurvival%20-%20Made%20with%20Clipchamp.gif"></a>
       </td>
       <td>
         <a href = "https://github.com/kelvin-wu13/Last-Stand"><img width="100%" src="GIF"></a>
