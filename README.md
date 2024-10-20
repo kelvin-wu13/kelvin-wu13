@@ -1,60 +1,50 @@
-# Hi, I'm Kelvin Wu 👋
----
-Nice to meet you! I'm currently a student at Binus University, majoring in Game Application and Technology 🎮. 
-I’m a passionate game development, specializing in Game Programming. My journey in game development has been fueled by curiosity and a drive to create innovative solutions through technology and I'm always eager to learn and explore new challenges.</br>
-.
+## About Me
+I'm an undergraduate student at Bina Nusantara University, majoring in Game Application and Technology. I'm aspiring to be a game programmer, and currently proficient in using Unity.
 
-*All the GIFs are linked to their respective itch.io page*
+## Things that I made:
 
-# Portfolio Highlights
-<table width="100%">
+<table style="text-align: center;">
   <thead>
     <tr>
-      <th width="50%"><a href="Link itch.io">Wraith Pong</a></th>
-      <th width="50%"><a href="Link itch.io">Samurai Dash</a></th>
+      <th width="50%"><a>Nebula Defender</a></th>
+      <th width="50%"><a>Samurai Dash</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="link gif" alt="Wraith Pong GIF"/></td>
-      <td><img src="link gif" alt="Samurai Dash GIF"/></td>
+      <td>
+        <a href = "https://github.com/kelvin-wu13/NebulaDefender"><img width="100%" src="Link GIF"></a>
+      </td>
+      <td>
+        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="Link GIF"></a>
+      </td>
     </tr>
     <tr>
-      <td valign="text-top">Penjelasan tentang Game</td>
-      <td valign="text-top">Penjelasan tentang game</td>
-    </tr>
-    <tr>
-      <td><a href="link itch io">Itch Page</a></td>
-      <td><a href="link itch io">Itch Page</a></td>
+      <td valign="text-top">Spaceshooter prototype game. Defend your planet by shooting alien from outer space.<a href="https://github.com/kelvin-wu13/NebulaDefender"> Check the game here.</a></td></td>
+      <td valign="text-top">Platformer game. Escape by dodging traps and defeating enemy in front of your path.<a href="https://github.com/kelvin-wu13/SamuraiDash"> Check the game here.</a></td>
     </tr>
   </tbody>
-</table>
-
-<br>
-
-<table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="link itchio game">Nama Game 3</a></th>
-      <th width="50%"><a href="link itchio game">Nama Game 4</a></th>
+      <th width="50%"><a>Desert Survival</a></th>
+      <th width="50%"><a>Last Stand</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="link gif" alt="Calces GIF"/></td>
-      <td><img src="link gif" alt="Into the function GIF"/></td>
+      <td>
+        <a href = "https://github.com/kelvin-wu13/DesertSurvival"><img width="100%" src="GIF"></a>
+      </td>
+      <td>
+        <a href = "https://github.com/kelvin-wu13/Last-Stand"><img width="100%" src="GIF"></a>
+      </td>
     </tr>
     <tr>
-      <td valign="text-top">Penjelasan tentang game</td>
-      <td valign="text-top">Penjelasan tentang game</td>
-    </tr>
-    <tr>
-      <td><a href="link itch io">Itch Page</a></td>
-      <td><a href="link itch io">Itch Page</a></td>
+      <td valign="text-top">Zombie FPS prototype game. Survive and defeat zombie that comes to your way. <a href="https://github.com/kelvin-wu13/DesertSurvival"> Check the game here.</a></td>
+      <td valign="text-top">Tower Defense. Defend your home from monster Invasion <a href="https://github.com/kelvin-wu13/Last-Stand"> Check the game here.</a></td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## 📩 Contact Me
