@@ -17,7 +17,7 @@ I'm currently a student at Binus University, majoring in Game Application and Te
         <a href = "https://github.com/kelvin-wu13/NebulaDefender"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SpaceShooter.gif"></a>
       </td>
       <td>
-        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/Platformer.gif"></a>
+        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SamuraiDash.gif"></a>
       </td>
     </tr>
     <tr>
