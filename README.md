@@ -21,8 +21,8 @@ I'm currently a student at Binus University, majoring in Game Application and Te
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Spaceshooter prototype game. Defend your planet by shooting alien from outer space.<a href="https://github.com/kelvin-wu13/NebulaDefender"> Check the game here.</a></td></td>
-      <td valign="text-top">Platformer game. Escape by dodging traps and defeating enemy in front of your path.<a href="https://github.com/kelvin-wu13/SamuraiDash"> Check the game here.</a></td>
+      <td valign="text-top">Nebula Defender is a spaceshooter game with multiple buff for player for increase in fire rate when defeating an enemy.With HighScore and Score system.Evade enemy bullet and achieve score higher than your previous one.Post-Processing includes: Bloom,Chromatic Abberation,Vignette,and Color Adjustment <a href="https://github.com/kelvin-wu13/NebulaDefender"> Check the game here.</a></td></td>
+      <td valign="text-top">Samurai Dash is a 2D Platformer game where the player dodges traps and defeat enemy to reach the FinishPoint.With Checkpoint and different Levels added into the game.PostProcessing includes: Bloom,Vignette,and Lift Gamma Gain.<a href="https://github.com/kelvin-wu13/SamuraiDash"> Check the game here.</a></td>
     </tr>
   </tbody>
   <thead>
