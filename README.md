@@ -14,10 +14,10 @@ I'm currently a student at Binus University, majoring in Game Application and Te
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/kelvin-wu13/NebulaDefender"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/NebulaDefender.gif"></a>
+        <a href = "https://github.com/kelvin-wu13/NebulaDefender"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SpaceShooter.gif"></a>
       </td>
       <td>
-        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/SamuraiDash%20-%20Made%20with%20Clipchamp.gif"></a>
+        <a href = "https://github.com/kelvin-wu13/SamuraiDash"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/Platformer.gif"></a>
       </td>
     </tr>
     <tr>
