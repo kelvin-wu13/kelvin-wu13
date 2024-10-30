@@ -34,14 +34,14 @@ I'm currently a student at Binus University, majoring in Game Application and Te
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/kelvin-wu13/DesertSurvival"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/DesertSurvival%20-%20Made%20with%20Clipchamp.gif"></a>
+        <a href = "https://github.com/kelvin-wu13/DesertSurvival"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/DesertSurvival.gif"></a>
       </td>
       <td>
         <a href = "https://github.com/kelvin-wu13/Last-Stand"><img width="100%" src="GIF"></a>
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Zombie FPS prototype game. Survive and defeat zombie that comes to your way. <a href="https://github.com/kelvin-wu13/DesertSurvival"> Check the game here.</a></td>
+      <td valign="text-top">Desert Survival is a Zombie themed FPS game.Where there is countless zombie roaming in the city and you are tasked to defeat zombie and survive.With Rifle,infinite ammo and limited Health.Post processing includes: Bloom,Gamma,and Color Adjustment. <a href="https://github.com/kelvin-wu13/DesertSurvival"> Check the game here.</a></td>
       <td valign="text-top">Tower Defense. Defend your home from monster Invasion <a href="https://github.com/kelvin-wu13/Last-Stand"> Check the game here.</a></td>
     </tr>
   </tbody>
