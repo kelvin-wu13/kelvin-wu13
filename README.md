@@ -2,7 +2,7 @@
 ---
 I'm currently a student at Binus University, majoring in Game Application and Technology. i am very passionate about game development and always eager to expand my programming skill set and take on new challenges. </br>.
 
-## Things that I made:
+## Games that I made:
 
 <table style="text-align: center;">
   <thead>
