@@ -37,12 +37,12 @@ I'm currently a student at Binus University, majoring in Game Application and Te
         <a href = "https://github.com/kelvin-wu13/DesertSurvival"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/DesertSurvival.gif"></a>
       </td>
       <td>
-        <a href = "https://github.com/kelvin-wu13/Last-Stand"><img width="100%" src="GIF"></a>
+        <a href = "https://github.com/kelvin-wu13/Last-Stand"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/LastStand.gif"></a>
       </td>
     </tr>
     <tr>
       <td valign="text-top">Desert Survival is a Zombie themed FPS game.Where there is countless zombie roaming in the city and you are tasked to defeat zombie and survive.With Rifle,infinite ammo and limited Health.Post processing includes: Bloom,Gamma,and Color Adjustment. <a href="https://github.com/kelvin-wu13/DesertSurvival"> Check the game here.</a></td>
-      <td valign="text-top">Tower Defense. Defend your home from monster Invasion <a href="https://github.com/kelvin-wu13/Last-Stand"> Check the game here.</a></td>
+      <td valign="text-top">Last Stand is a Tower Defense themed game.With different types of unit to deploy.As time progress you can collect coin that drops to deploy more units or you can deploy Monk unit type to generate coins.Post processing includes:Bloom,Shadows,Vignette,Color Adjustment. <a href="https://github.com/kelvin-wu13/Last-Stand"> Check the game here.</a></td>
     </tr>
   </tbody>
 </table>
