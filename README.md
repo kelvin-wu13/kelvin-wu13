@@ -28,7 +28,7 @@ I'm currently a student at Binus University, majoring in Game Application and Te
   <thead>
     <tr>
       <th width="50%"><a>Desert Survival</a></th>
-      <th width="50%"><a>Last Stand</a></th>
+      <th width="50%"><a>Samurai Dash</a></th>
     </tr>
   </thead>
   <tbody>
