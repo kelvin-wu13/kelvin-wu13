@@ -45,7 +45,6 @@ Hello! My name is Kelvin Wu, a Undergraduate student at Binus University majorin
       <td valign="text-top">Samurai Dash is a 2D Platformer game where the player dodges traps and defeat enemy to reach the FinishPoint.With Checkpoint and different Levels added into the game.PostProcessing includes: Bloom,Vignette,and Lift Gamma Gain.<a href="https://github.com/kelvin-wu13/SamuraiDash"> Check the game here.</a></td>
     </tr>
   </tbody>
-<table style="text-align: center;">
   <thead>
     <tr>
       <th width="50%"><a>Nebula Defender</a></th>
@@ -66,6 +65,7 @@ Hello! My name is Kelvin Wu, a Undergraduate student at Binus University majorin
       <td valign="text-top">Last Stand is a Tower Defense themed game.With different types of unit to deploy.As time progress you can collect coin that drops to deploy more units or you can deploy Monk unit type to generate coins.Post processing includes:Bloom,Shadows,Vignette,Color Adjustment. <a href="https://github.com/kelvin-wu13/Last-Stand"> Check the game here.</a></td>
     </tr>
   </tbody>
+
 
 
 ## 📩 Contact Me
