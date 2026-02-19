@@ -14,10 +14,10 @@ Hello! My name is Kelvin Wu, a Undergraduate student at Binus University majorin
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/kelvin-wu13/Watts-and-Homes"><img width="100%" src="GID WATTS AND HOMES"></a>
+        <a href = "https://github.com/kelvin-wu13/Watts-and-Homes"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/Watts%26HomesGameplay.gif"></a>
       </td>
       <td>
-        <a href = "https://github.com/kelvin-wu13/ReveristPvP"><img width="100%" src="GIF THE REVERIST"></a>
+        <a href = "https://github.com/kelvin-wu13/ReveristPvP"><img width="100%" src="https://github.com/kelvin-wu13/kelvin-wu13/blob/main/GIF/GameplayReverist.gif"></a>
       </td>
     </tr>
     <tr>
