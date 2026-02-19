@@ -21,8 +21,8 @@ Hello! My name is Kelvin Wu, a Undergraduate student at Binus University majorin
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Watts and Homes is a Serious Game related to mathematics and electricity.The game objective is to turn on the home appliance/object with a power source by using a cable to connect them.The game will be accompannied with a story dialogue per level unlocked. <a href="https://github.com/kelvin-wu13/Watts-and-Homes"> Check the game here.</a></td></td>
-      <td valign="text-top">The Reverist is a PvP game similiar to Tekken.The character will have 3 skillset and Ultimate and the map will be using a tile-based movement.The goal is to make the other player HP to zero before the timer reached 0. <a href="https://github.com/kelvin-wu13/ReveristPvP"> Check the game here.</a></td>
+      <td valign="text-top">Watts and Homes is a Serious Game related to mathematics and electricity.The game objective is to turn on the home appliance/object with a power source by using a cable to connect them.The game will be accompannied with a story dialogue per level unlocked. <a href="https://inidiki.itch.io/watts-and-homes"> Check the game here.</a></td></td>
+      <td valign="text-top">The Reverist is a PvP game similiar to Tekken.The character will have 3 skillset and Ultimate and the map will be using a tile-based movement.The goal is to make the other player HP to zero before the timer reached 0. <a href="https://inidiki.itch.io/the-reverist"> Check the game here.</a></td>
     </tr>
   </tbody>
   <thead>
