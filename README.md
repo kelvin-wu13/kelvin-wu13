@@ -1,6 +1,6 @@
 # Hi, I'm Kelvin Wu 👋
 ---
-Hello! My name is Kelvin Wu, a Undergraduate student at Binus University majoring in Game Application Technology. As a game programmer, I’m passionate about bringing creative ideas to life through interactive and immersive experiences. </br>.
+Hello! My name is Kelvin Wu, a Fresh Graduate student at Binus University majoring in Game Application Technology. As a game programmer, I’m passionate about bringing creative ideas to life through interactive and immersive experiences. </br>.
 
 ## Games that I made:
 
